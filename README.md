@@ -1,0 +1,2 @@
+# Text-Classification-Based-on-WhatsApp-Chats-Using-NLP-
+This project analyzes exported WhatsApp chat data using Natural Language Processing techniques. It performs text preprocessing, feature extraction with TF-IDF, and machine learning-based text classification to identify sentiment patterns. The system also studies user behavior, message frequency, and interaction trends from unstructured chat data.
